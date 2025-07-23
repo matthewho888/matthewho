@@ -77,10 +77,11 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 
 ## Information
 
-- Email: **26matthewho@berkeley.edu**  
-- LinkedIn: [Link Here]([url](https://www.linkedin.com/in/matthewho88/))
-- Resume: [Link Here]([url](https://drive.google.com/file/d/1n6v4j4-kc-N33Do20g2RtKTfvCcOV2Aq/view?usp=sharing)) 
+- Email: [26matthewho@berkeley.edu](mailto:26matthewho@berkeley.edu)  
+- LinkedIn: [linkedin.com/in/matthewho88](https://www.linkedin.com/in/matthewho88/)  
+- Resume: [View PDF](https://drive.google.com/file/d/1n6v4j4-kc-N33Do20g2RtKTfvCcOV2Aq/view?usp=sharing)  
 - Based in Berkeley, CA
+
 
 ---
 
