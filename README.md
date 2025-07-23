@@ -40,8 +40,9 @@ This page is a mix of my resume and projects — feel free to poke around.
 ### Delirium Prediction from COVID Multi-Omic Data  
 Built a machine learning model to predict if COVID patients would develop delirium, using UCSF clinical + gene expression data.  
 **Tools:** `Python`, `scikit-learn`, `Pandas`, `Seaborn`, `ML modeling`  
-🏅 Berkeley Ribbon of Excellence  
-[GitHub Repo](https://github.com/matthewho888/delerium/blob/main/COVID_DELIRIUM.ipynb](https://github.com/matthewho888/delerium/tree/main)
+Awarded Berkeley Ribbon of Excellence  
+[GitHub Repo](https://github.com/matthewho888/delerium/tree/main)
+
 
 ---
 
