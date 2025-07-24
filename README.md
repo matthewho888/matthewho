@@ -35,7 +35,7 @@ This page is a mix of my resume and projects — feel free to poke around.
 - Focused on reducing college debt burdens by highlighting actionable insights from federal funding patterns  
 ---
 
-## Projects I’ve Worked On
+## Featured Projects I’ve Worked On
 
 ### Delirium Prediction from COVID Multi-Omic Data  
 Built a machine learning model to predict if COVID patients would develop delirium, using UCSF clinical + gene expression data.  
@@ -46,10 +46,10 @@ Awarded Berkeley Ribbon of Excellence
 
 ---
 
-### Housing Bias: Fairness in Appraisals  
-Trained a regression model to see how appraised property values in Chicago differed from sale prices — and who that affected.  
-**Tools:** `Python`, `scikit-learn`, `EDA`, `Feature Engineering`  
-[GitHub Repo](#)
+### Amazon Products ETL & Dashboard
+Built a full-stack data pipeline to ingest, clean, and analyze Amazon product data with Airflow, store it in MySQL, and visualize insights through a Streamlit dashboard and exploratory notebooks.
+**Tools:** Python, Airflow, MySQL, Streamlit, Docker, pandas, EDA
+[GitHub Repo](https://github.com/matthewho888/ETL-Pipeline-Airflow-MySQL-Docker-)
 
 ---
 
@@ -70,7 +70,7 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 
 ---
 
-## 🛠 Languages & Tools
+## Languages & Tools
 
 `Python` | `R` | `SQL` |  `Excel` | `Power BI` | `Tableau` | `Git` | `XGBoost` | `BeautifulSoup` | `scikit-learn` | `Pandas` | `Matplotlib` | `EDA`
 
@@ -80,7 +80,8 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 
 - Email: [26matthewho@berkeley.edu](mailto:26matthewho@berkeley.edu)  
 - LinkedIn: [linkedin.com/in/matthewho88](https://www.linkedin.com/in/matthewho88/)  
-- Resume: [View PDF](https://drive.google.com/file/d/1n6v4j4-kc-N33Do20g2RtKTfvCcOV2Aq/view?usp=sharing)  
+- Resume: [View PDF](https://drive.google.com/file/d/1n6v4j4-kc-N33Do20g2RtKTfvCcOV2Aq/view?usp=sharing)
+- Website: [View website](https://matthewho888.github.io/My-Portfolio-/)
 - Based in Berkeley, CA
 
 
