@@ -86,4 +86,4 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 
 ---
 
-More projects coming soon. Trying to stay building, learning, and figuring it out new topics as I go!
+More projects coming soon. Trying to stay building, learning, and figuring out new topics as I go!
