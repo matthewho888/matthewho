@@ -76,10 +76,10 @@ I am really interested in all aspects of data: whether it be analytics, science,
 `Python` | `R` | `SQL` | `Java`
 
 **Tools**
-`Excel` | `Power BI` | `Tableau` | `Jupyter Notebook` | `Git` | `Airflow` | `MongoDB` | `MySQL` | `ETL Pipelines` |
+`Excel` | `Power BI` | `Tableau` | `Jupyter Notebook` | `Git` | `Airflow` | `MongoDB` | `MySQL` | `ETL Pipelines` 
 
 **Packages**
- `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `Pytorch` | `NLTK` | `XGBoost` | `BeautifulSoup` | `scikit-learn` | `dplyr` | 
+ `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `Pytorch` | `NLTK` | `XGBoost` | `BeautifulSoup` | `scikit-learn` | `dplyr` 
 
 ---
 
