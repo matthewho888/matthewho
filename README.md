@@ -1,10 +1,10 @@
-# Hello, I am Matthew Ho 
+# Hello! I am Matthew Ho 
 
-I’m a rising Senior at UC Berkeley studying **Data Science** and **Public Health** 
+I am Senior at UC Berkeley studying **Data Science** and **Public Health** 
 
-I’ve worked on projects ranging from predicting delirium using COVID datasets to building dashboards for sales teams in South Africa. I love solving problems with data, especially in healthcare and social impact.
+I’ve worked on projects ranging from predicting delirium using COVID datasets to building dashboards for sales teams in South Africa. I love working analytically, using data to solve problems. I particularly enjoy seeing the impact of my work, especially in healthcare and social impact.
 
-This page is a mix of my resume and projects — feel free to poke around.
+This page is a mix of my experiences, projects, tools, and interests!
 
 ---
 
@@ -70,8 +70,16 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 ---
 
 ## Languages & Tools
+I am really interested in all aspects of data: whether it be analytics, science, and engineering. Below are some tools and technologies that I enjoy working with.
 
-`Python` | `R` | `SQL` |  `Excel` | `Power BI` | `Tableau` | `Git` | `XGBoost` | `BeautifulSoup` | `scikit-learn` | `Pandas` | `Matplotlib` | `EDA`
+**Languages**
+`Python` | `R` | `SQL` | `Java`
+
+**Tools**
+`Excel` | `Power BI` | `Tableau` | `Jupyter Notebook` | `Git` | `Airflow` | `MongoDB` | `MySQL` | `ETL Pipelines` |
+
+**Packages**
+ `Pandas` | `NumPy` | `Seaborn` | `Matplotlib` | `Pytorch` | `NLTK` | `XGBoost` | `BeautifulSoup` | `scikit-learn` | `dplyr` | 
 
 ---
 
@@ -86,4 +94,3 @@ Led orientation for 50+ students. Lots of icebreakers, but also real conversatio
 
 ---
 
-More projects coming soon. Trying to stay building, learning, and figuring out new topics as I go!
