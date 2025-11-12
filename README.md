@@ -57,6 +57,7 @@ Built a full-stack data pipeline to ingest, clean, and analyze Amazon product da
 Used reinforcement learning to teach Pacman how to make decisions in a maze.  
 **Tools:** `Python`, `MDPs`, `Q-Learning`, `Game AI`  
 [GitHub Repo](https://github.com/matthewho888/Reinforcement-Learning/tree/main)
+
 ---
 
 ## Volunteering and Interests
